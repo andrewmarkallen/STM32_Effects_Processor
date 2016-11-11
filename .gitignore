@@ -1,0 +1,5 @@
+STM32F407VG_First/Debug/
+*.xcodeproj
+*.cogui
+*.comarker
+
